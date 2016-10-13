@@ -12,11 +12,16 @@ data = [
         'img_url': 'https://67.media.tumblr.com/c2910f5eaf259d33a8f3f5d1f1f70e42'
                    '/tumblr_odjoplUm701s373hwo1_250.gif'
     },
-{
+    {
         'id': 2,
         'text': 'What I feel like when it\'s friday',
         'img_url': 'https://67.media.tumblr.com/9e5cbc54bc8ebf2f5e49900861a81426'
                    '/tumblr_odqr13OKYS1s373hwo1_250.gif'
+    },
+{
+        'id': 3,
+        'text': 'stuff',
+        'img_url': ''
     }
 ]
 
