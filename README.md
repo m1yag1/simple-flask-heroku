@@ -4,6 +4,10 @@ A simple flask web application example template to be used on heroku.
 
 This is an ideal solution if you need something simple that is easy to get deployed on heroku. 
 
+> NOTE: The heroku dyno may take a second or two to start up the app.
+
+[DEMO](https://simple-flask-heroku.herokuapp.com/)
+
 ## Quick start
 
 Make changes to the html in `templates/index.html`.
@@ -24,10 +28,9 @@ If you haven't already, log in to your Heroku account and follow the prompts to 
 
 Add a remote to your git that can push to Heroku
 
-`$ heroku git:remote -a <your-heroku-app-name>` 
+`$ heroku git:remote -a simple-flask-heroku`
 
 Deploy your application using Heroku using Git.
 
 `$ git push heroku master`
-
 

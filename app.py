@@ -8,15 +8,13 @@ app = Flask(__name__)
 data = [
     {
         'id': 1,
-        'text': 'That drink is nasty',
-        'img_url': 'https://67.media.tumblr.com/c2910f5eaf259d33a8f3f5d1f1f70e42'
-                   '/tumblr_odjoplUm701s373hwo1_250.gif'
+        'text': 'This was how the deployment went today.',
+        'img_url': 'https://media.giphy.com/media/cEkC21ujTN2XC/giphy.gif'
     },
     {
         'id': 2,
-        'text': 'What I feel like when it\'s friday',
-        'img_url': 'https://67.media.tumblr.com/9e5cbc54bc8ebf2f5e49900861a81426'
-                   '/tumblr_odqr13OKYS1s373hwo1_250.gif'
+        'text': 'When you become the Taco King of PySlackers',
+        'img_url': 'https://media.giphy.com/media/4MTFfpZWD91KM/giphy.gif'
     },
 {
         'id': 3,
